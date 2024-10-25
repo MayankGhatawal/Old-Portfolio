@@ -2,7 +2,6 @@
 
 ## Overview
 
-
 This is a personal portfolio website built using HTML, CSS, and JavaScript. It showcases my skills, projects, and provides a contact form with a Google Maps integration to display my location. The site is designed to be responsive and user-friendly.
 
 ## Features
