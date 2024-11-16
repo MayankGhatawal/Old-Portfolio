@@ -6,7 +6,6 @@ This is a personal portfolio website built using HTML, CSS, and JavaScript. It s
 
 ## Features
 
-
 - **About Me**: A brief introduction and avatar.
 - **Projects**: Highlights of my notable projects with descriptions.
 - **Skills**: A list of my technical skills.
